@@ -1,0 +1,12 @@
+{
+  "name": "mobitrans-challenge",
+  "version": "0.0.1",
+  "description": "Mobitrans Challenge",
+  "main": "src/index.js",
+  "author": "Gorka",
+  "license": "MIT",
+  "dependencies": {
+    "minimist": "^1.2.0"
+  },
+  "devDependencies": {}
+}
